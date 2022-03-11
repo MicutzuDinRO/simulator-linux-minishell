@@ -70,5 +70,3 @@ Tema: Sistemul lui Biju
                     functiei corespunzatoare operatiei
     - Functia commands: Apeleaza functia corespunzatoare operatiei dupa primul
                         parametru
-
-Thank you for resisting to verify all my files! :)
