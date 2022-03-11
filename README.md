@@ -41,7 +41,7 @@ Biblioteca write.h
                     aceste directoare pana nu mai gaseste nimic in continutul
                     directorului, cand se intoarce cu un nivel mai sus
 
-*Biblioteca remove.h
+Biblioteca remove.h
     - Se foloseste de functiile din biblioteca free.h:
         - free_file
         - free_dir
@@ -59,7 +59,7 @@ Biblioteca change.h
     - Functia mv: Muta in acelasi director un director/fisier la coada listei
                   si ii schimba numele
 
-*Fisierul tema1.c
+Fisierul main.c
     - Se foloseste de toate bibliotecile de mai sus
     - Realizeaza comenzile date de utilizator prin stdin
     - Functia read: Citeste linia data de utilizator, o imparte dupa space si
