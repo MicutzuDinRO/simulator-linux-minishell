@@ -1,5 +1,4 @@
 Nume: Alexandru Micu
-ID IOCLA: 17757c83
 Grupa: 321CC
 Tema: Sistemul lui Biju
 
